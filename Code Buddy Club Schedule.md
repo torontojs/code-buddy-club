@@ -1,15 +1,26 @@
-**# Toronto JS Code Buddy Club
+## What is a Code Buddy Club?
 
-## Project
-- Code together using free courses to learn new topics and share what we learned  similar to a "book club"
-- Meet every other for sharing progress
-- Meet every alternate week for a "buddy coding session"
-- Each course should take roughly 1~3 months to complete
-- Projects will be updated on github to show progress
+- It's similar to a book club
+- Participants code together using free courses to learn new topics and share what we learned.
+- Meet on discord to share progress, and provide support and debugging
+- Each course should take roughly 1 - 8 weeks to complete
+- Participants are free to code independently, or to pair program.
+- It's a really relaxed, supportive, and social atmosphere.
 
-## Courses List
+## 2024 Courses List and Schedule
 
-| Course | Duration | Proposed Duration for Buddy Club | Weeks of the Year | Dates (Monday - Sunday) |
+### First meeting
+
+Date: Tuesday, January 16th.
+Time: 6:30pm-7:30pm 
+Location: TJS Discord - will create a channel.
+### Regular meetings
+
+Sundays 11am-12pm
+Tuesdays 6:30pm-7:30pm 
+## Schedule and Course List: January - June 2024
+
+| Course | Duration (minutes / number of lessons) | Proposed Duration for Buddy Club | Week(s) of the Year | Dates (Monday - Sunday) |
 | :--- | :---: | :---: | :---: | :---: |
 | [GitHub Tips & Tricks](https://egghead.io/courses/github-tips-tricks-6fc4) | 8m / 10 lessons | 01 Week | 03 to 03 | Jan 15 to Jan 21 |
 | [Build faster with GitHub Copilot and Codespaces](https://youtu.be/Lseaqxg8NaY?si=qblR8Am2hJlhcn0Q) | 8m / 10 lessons | 01 Week | 03 to 03 | Jan 15 to Jan 21 |
@@ -24,3 +35,8 @@
 | [Command Line Power User](https://commandlinepoweruser.com/) See note below!| 1h / 11 lessons | 02 Weeks |  24 to 25 | Jun 10 to Jun 23 |
 | [Mastering Markdown](https://masteringmarkdown.com/) | 34min / 11 lessons | 01 Weeks |  26 to 26 | Jun 24 to Jul 01 |
 
+Additional resource for the to Command Line Power User weeks
+(Because that course focuses on Mac)
+Customize your Windows Terminal
+https://youtu.be/K-hby0Op1dM?si=8gqzYZwZRI1kVgA1
+14 min

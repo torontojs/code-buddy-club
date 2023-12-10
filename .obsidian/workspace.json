@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Code Buddy Club Schedule.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,33 +29,6 @@
           }
         ],
         "currentTab": 1
-          },
-          {
-            "id": "8446d6187750f5e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Buddy Club Schedule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "729b94836c60c81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Code Buddy Club Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Code Buddy Club Schedule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Code Buddy Club Schedule.md"
               }
             }
           }
@@ -184,8 +157,8 @@
   },
   "active": "729b94836c60c81f",
   "lastOpenFiles": [
+    "README.md",
     "Course Suggestion for Future.md",
-    "Code Buddy Club Schedule.md",
-    "README.md"
+    "Code Buddy Club Schedule.md"
   ]
 }

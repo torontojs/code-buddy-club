@@ -11,13 +11,13 @@
 
 ### First meeting
 
-Date: Tuesday, January 16th.
-Time: 6:30pm-7:30pm 
-Location: TJS Discord - will create a channel.
+- Date: Tuesday, January 16th.
+- Time: 6:30pm-7:30pm 
+- Location: TJS Discord - will create a channel.
 ### Regular meetings
 
-Sundays 11am-12pm
-Tuesdays 6:30pm-7:30pm 
+- Sundays 11am-12pm
+- Tuesdays 6:30pm-7:30pm 
 ## Schedule and Course List: January - June 2024
 
 | Course | Duration (minutes / number of lessons) | Proposed Duration for Buddy Club | Week(s) of the Year | Dates (Monday - Sunday) |
@@ -29,14 +29,13 @@ Tuesdays 6:30pm-7:30pm
 | [Full Stack with React and Appwrite](https://egghead.io/courses/full-stack-with-react-and-appwrite-e1e46f61) | 2h 11m / 15 lessons | 05 Weeks | 06 to 11 | Feb 05 to Mar 17 |
 | [Creating Accessible Skeleton Loader Animation from Scratch with HTML and CSS](https://egghead.io/courses/creating-accessible-skeleton-loader-animation-from-scratch-with-html-and-css-4b3d6427) | 5m / 3 lessons | 01 Week | 12 to 12 | Mar 18 to Mar 24 |
 | [Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106) | 42m / 9 lessons | 02 Weeks |  13 to 14 | Mar 25 to Apr 07 |
-| [Build a Keyword Extractor: React + OpenAI API + Chakra UI](https://youtu.be/jJNPPP2YEdM?si=FT7l6K41OIj76Ubr)| 48 min/ 1 video | 02 weeks | 15 to 16 | Apr 08 to Apr 21 |
-| [Introduction to Applying Web Components](https://egghead.io/courses/web-components-f902) | 17m / 7 lessons | 02 Week |  17 to 18 | Apr 22 to May 05 |
+| [Build a Keyword Extractor: React + OpenAI API + Chakra UI](https://youtu.be/jJNPPP2YEdM?si=FT7l6K41OIj76Ubr)| 48 min/ 1 video | 02 Weeks | 15 to 16 | Apr 08 to Apr 21 |
+| [Introduction to Applying Web Components](https://egghead.io/courses/web-components-f902) | 17m / 7 lessons | 02 Weeks |  17 to 18 | Apr 22 to May 05 |
 | [Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react) | 1h 32m / 28 lessons | 04 Weeks |  19 to 23 | May 06 to June 09 |
 | [Command Line Power User](https://commandlinepoweruser.com/) See note below!| 1h / 11 lessons | 02 Weeks |  24 to 25 | Jun 10 to Jun 23 |
-| [Mastering Markdown](https://masteringmarkdown.com/) | 34min / 11 lessons | 01 Weeks |  26 to 26 | Jun 24 to Jul 01 |
+| [Mastering Markdown](https://masteringmarkdown.com/) | 34min / 11 lessons | 01 Week |  26 to 26 | Jun 24 to Jul 01 |
 
 Additional resource for the to Command Line Power User weeks
-(Because that course focuses on Mac)
-Customize your Windows Terminal
-https://youtu.be/K-hby0Op1dM?si=8gqzYZwZRI1kVgA1
-14 min
+- Because that course focuses on MacOS
+- [Customize your Windows Terminal](https://youtu.be/K-hby0Op1dM?si=8gqzYZwZRI1kVgA1)
+- 14 min

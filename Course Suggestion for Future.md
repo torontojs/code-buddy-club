@@ -1,7 +1,19 @@
+## Please include your course suggestions for future sessions
 
+**Do Not Edit This Section Please!**
 
-Lazar suggested:
-Planet Scale's My SQL
-Over 7 hours** and 64 videos
-8 weeks
-https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction**
+Suggestions format:
+
+- Your Name:
+- Your email:
+- The date that you are submitting your suggestion:
+- Name of course:
+- Link to course:
+- Platform (eg Egghead, YouTube):
+- Date the course was published:
+- Date the course was updated (if applicable):
+- Number of hours and minutes for course:
+- Is it free (it should be free!):
+- Why you're suggesting it:
+
+### Put Your Suggestions Here

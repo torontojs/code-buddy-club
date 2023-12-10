@@ -21,6 +21,8 @@ Twice a week for one hour.
 - Tuesdays 6:30-7:30pm 
 
 Attendance is flexible.
+
+Please see the doc [Code Buddy Club Schedule.md](https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md)for details.
 ## Where Will It Be?
 
 On TJS discord. 

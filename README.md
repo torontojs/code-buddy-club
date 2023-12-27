@@ -27,16 +27,21 @@ Topics covered in the first half of 2024:
 - Room for one more co-volunteer :-)
 ### Who is Code Buddy Club For?
 
-- This first round of Code Buddy Club in 2024 is aimed at junior developers, and anyone that wants to learn with a supportive group. 
-- Participants should have the basics of:
-	- html, css, and javascript, 
-	- Be comfortable with the basics of git and GitHub prior to starting,
-		- However, **it's ok if aren't comfortable with Git**. 
-		- There's a free course that participants can do prior to starting, or in their first week of Code Buddy Club. See [schedule](https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md)note 1. 
-		- The course is 1 hour long, and will likely take 2-3 hours of your time.
-	- Ideally installing packages with node package manager (npm).
-		-  If you're not yet comfortable with npm, the organizers can provide support and resources.
-- **It's fine if you're just learning React**. A lot changed with React in 2023 especially with Create React App (CRA) becoming depreciated, so there's a crash course in the second week.
+This first round of Code Buddy Club in 2024 is aimed at junior developers, and anyone that wants to learn with a supportive group. 
+
+**Participants should be comfortable with**:
+
+- html, css, and javascript, 
+- the basics of git and GitHub prior to starting,
+	- However, **it's ok if aren't comfortable with Git**. 
+	- There's a free course that participants can do prior to starting, or in their first week of Code Buddy Club. See [schedule](https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md)note 1. 
+	- The course is 1 hour long, and will likely take 2-3 hours of your time.
+- Ideally installing packages with node package manager (npm).
+	-  If you're not yet comfortable with npm, the organizers can provide support and resources.
+
+**It's fine if you're just starting to learn React**. 
+
+- A lot changed with React in 2023, especially with Create React App (CRA) becoming depreciated, so there's a React crash course in the second week.
 ## When Will It Run?
 
 **Twice a week for one hour**

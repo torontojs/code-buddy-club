@@ -21,9 +21,9 @@ Topics covered in the first half of 2024:
 
 ### Who Will Be Running The Code Buddy Club?
 
-- Sami Xie
-- Liz McCready
-- Marco Campos
+- [Sami Xie](https://github.com/tix980)
+- [Liz McCready (GingerKiwi)](https://github.com/GingerKiwi)
+- [Marco Campos (Madcampos)](https://github.com/madcampos)
 - Room for one more co-volunteer :-)
 ### Who is Code Buddy Club For?
 

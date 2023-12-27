@@ -20,6 +20,8 @@
 - Tuesdays 6:30pm-7:30pm 
 ## Schedule and Course List: January - June 2024
 
+**You May Have To Scroll Left and Right to View The Entire Table!**
+
 | Course | Platform | Instructor | Duration: Hours / Minutes | Number of Lessons/Video | Proposed Duration for Buddy Club | Week(s) of the Year | Dates (Monday - Sunday) |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
 | [GitHub Tips & Tricks](https://egghead.io/courses/github-tips-tricks-6fc4) Please see note 1 below| Egghead.io | [Joe Previte](https://egghead.io/q/resources-by-joe-previte)| 8 min | 10 lessons | 01 Week | 03 to 03 | Jan 15 to Jan 21 |

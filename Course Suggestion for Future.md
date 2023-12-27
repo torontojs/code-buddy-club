@@ -16,4 +16,5 @@ Suggestions format:
 - Is it free (it should be free!):
 - Why you're suggesting it:
 
+___
 ### Put Your Suggestions Here

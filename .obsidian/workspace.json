@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code Buddy Club Schedule.md",
+                "file": "Course Suggestion for Future.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code Buddy Club Schedule.md",
+                "file": "Course Suggestion for Future.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code Buddy Club Schedule.md",
+                "file": "Course Suggestion for Future.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code Buddy Club Schedule.md"
+                "file": "Course Suggestion for Future.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "729b94836c60c81f",
   "lastOpenFiles": [
+    "Code Buddy Club Schedule.md",
     "README.md",
-    "Course Suggestion for Future.md",
-    "Code Buddy Club Schedule.md"
+    "Course Suggestion for Future.md"
   ]
 }

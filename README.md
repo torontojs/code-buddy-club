@@ -57,6 +57,7 @@ This first round of Code Buddy Club in 2024 is aimed at junior developers, and a
 	- That way you'll have questions to ask, and likely be able to help others.
 
 Please see the doc [Code Buddy Club Schedule.md](https://github.com/torontojs/code-buddy-club/blob/main/Code%20Buddy%20Club%20Schedule.md)for details.
+To add all the events here's the [link to the Google Calendar](https://calendar.google.com/calendar/u/0?cid=MGE4ZDRkNmEwYWQxNGJlMTBjZTc0MTRlODAxMDViZTI0ZjE1YmExNGFkZmYyNDc1MTgzM2FjOGUwMGI0ODkxYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 ## Where Will It Be?
 
 On TorontoJS discord server. There's a dedicated Code Buddy Club channel. 

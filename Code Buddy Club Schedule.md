@@ -21,6 +21,7 @@
 ## Schedule and Course List: January - June 2024
 
 **You May Have To Scroll Left and Right to View The Entire Table!**
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=MGE4ZDRkNmEwYWQxNGJlMTBjZTc0MTRlODAxMDViZTI0ZjE1YmExNGFkZmYyNDc1MTgzM2FjOGUwMGI0ODkxYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) Note that the calendar just has the course title and date/time we're meeting. The table below has more details.
 
 | Course | Platform | Instructor | Duration: Hours / Minutes | Number of Lessons/Video | Proposed Duration for Buddy Club | Week(s) of the Year | Dates (Monday - Sunday) |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: |

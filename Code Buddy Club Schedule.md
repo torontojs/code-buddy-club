@@ -23,7 +23,7 @@
 **You May Have To Scroll Left and Right to View The Entire Table!**
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MGE4ZDRkNmEwYWQxNGJlMTBjZTc0MTRlODAxMDViZTI0ZjE1YmExNGFkZmYyNDc1MTgzM2FjOGUwMGI0ODkxYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) Note that the calendar just has the course title and date/time we're meeting. The table below has more details.
 
-| Course | Platform | Instructor | Video Duration: Hours / Minutes | Number of Lessons/Video | Proposed Duration for Buddy Club | Week(s) of the Year | Dates (Monday - Sunday) |
+| Course | Platform | Instructor | Video Duration: Hours / Minutes | Number of Lessons | Proposed Duration for Buddy Club | Week(s) of the Year | Dates (Monday - Sunday) |
 | :--- | :--- | :--- | :--- | :--- | :---: | :---: | :---: |
 | [GitHub Tips & Tricks](https://egghead.io/courses/github-tips-tricks-6fc4) Please see note 1 below| Egghead.io | [Joe Previte](https://egghead.io/q/resources-by-joe-previte)| 8 min | 10 lessons | 0.5 Week | 03 to 03 | Jan 15 to Jan 21 |
 | [Build faster with GitHub Copilot and Codespaces](https://youtu.be/Lseaqxg8NaY?si=qblR8Am2hJlhcn0Q) | YouTube: Microsoft Developer | [Damian Brady](https://www.linkedin.com/in/damianbrady/) and [Rizel Scarlett](https://www.linkedin.com/in/rizel-bobb-semple/) | 8 min | 10 lessons | 0.5 Week | 03 to 03 | Jan 15 to Jan 21 |

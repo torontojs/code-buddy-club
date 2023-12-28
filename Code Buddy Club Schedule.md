@@ -21,6 +21,7 @@
 ## Schedule and Course List: January - June 2024
 
 **You May Have To Scroll Left and Right to View The Entire Table!**
+
 [Google Calendar](https://calendar.google.com/calendar/u/0?cid=MGE4ZDRkNmEwYWQxNGJlMTBjZTc0MTRlODAxMDViZTI0ZjE1YmExNGFkZmYyNDc1MTgzM2FjOGUwMGI0ODkxYUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) Note that the calendar just has the course title and date/time we're meeting. The table below has more details.
 
 | Course | Platform | Instructor | Video Duration: Hours / Minutes | Number of Lessons | Proposed Duration for Buddy Club | Week(s) of the Year | Dates (Monday - Sunday) |
@@ -29,8 +30,8 @@
 | [Build faster with GitHub Copilot and Codespaces](https://youtu.be/Lseaqxg8NaY?si=qblR8Am2hJlhcn0Q) | YouTube: Microsoft Developer | [Damian Brady](https://www.linkedin.com/in/damianbrady/) and [Rizel Scarlett](https://www.linkedin.com/in/rizel-bobb-semple/) | 8 min | 10 lessons | 0.5 Week | 03 to 03 | Jan 15 to Jan 21 |
 | JavaScript: [ES6 and Beyond](https://egghead.io/courses/es6-and-beyond-9922)| Egghead.io | [Laurie Barth](https://egghead.io/q/resources-by-laurie-barth) | 11 min | 6 lessons | 0.5 Week | 04 to 04 | Jan 22 to Jan 28 |
 | [Vite Crash Course Faster Alternative To CRA](https://www.youtube.com/watch?v=89NJdbYTgJ8&t=2s) | YouTube: Traversy Media | [Brad Traversy](https://www.linkedin.com/in/bradtraversy/) | 16 min | 1 video | 0.5 Week | 04 to 04 | Jan 22 to Jan 28 | 
-| [Secure React User Authentication with Auth0](https://egghead.io/courses/secure-react-user-authentication-with-auth0-5e17e718) | Egghead.io | [Will Johnson](https://egghead.io/q/resources-by-will-johnson) | 24 min | 9 lessons | 01 Week | 05 to 05 | Jan 29 to Feb 04 |
-| [Full Stack with React and Appwrite](https://egghead.io/courses/full-stack-with-react-and-appwrite-e1e46f61) Please see note 2 below | Egghead.io | [Colby Fayock](https://egghead.io/q/resources-by-colby-fayock) | 2h 11m | 15 lessons | 05 Weeks | 06 to 11 | Feb 05 to Mar 17 |
+| [Secure React User Authentication with Auth0](https://egghead.io/courses/secure-react-user-authentication-with-auth0-5e17e718) Please see note 2 below | Egghead.io | [Will Johnson](https://egghead.io/q/resources-by-will-johnson) | 24 min | 9 lessons | 01 Week | 05 to 05 | Jan 29 to Feb 04 |
+| [Full Stack with React and Appwrite](https://egghead.io/courses/full-stack-with-react-and-appwrite-e1e46f61)  | Egghead.io | [Colby Fayock](https://egghead.io/q/resources-by-colby-fayock) | 2h 11m | 15 lessons | 05 Weeks | 06 to 11 | Feb 05 to Mar 17 |
 | [Creating Accessible Skeleton Loader Animation from Scratch with HTML and CSS](https://egghead.io/courses/creating-accessible-skeleton-loader-animation-from-scratch-with-html-and-css-4b3d6427) | Egghead.io | [Will Mendes](https://egghead.io/q/resources-by-will-mendes) | 5 min | 3 lessons | 0.5 Week | 12 to 12 | Mar 18 to Mar 24 |
 | [Javascript Internationalization Object](https://egghead.io/courses/javascript-internationalization-object-b62d898e) |Egghead.io | [Matías Hernández](https://egghead.io/q/resources-by-matias-hernandez) | 11 min | 5 lessons | 0.5 Week | 12 to 12 | Mar 18 to Mar 24  
 | [Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106) Please see note 3 below| Egghead.io | [Lazar Nikolov](https://egghead.io/q/resources-by-lazar-nikolov) See Notes! | 42 min | 9 lessons | 02 Weeks |  13 to 14 | Mar 25 to Apr 07 |

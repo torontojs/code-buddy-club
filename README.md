@@ -12,7 +12,7 @@ Please see the [schedule](https://github.com/torontojs/code-buddy-club/blob/main
 Topics covered in the first half of 2024:
 - Tooling - Git, GitHub, terminal, markdown
 - React
-- Charka UI
+- Chakra UI
 - Accessibility
 - JavaScript tips and tricks
 - Web Components
@@ -67,9 +67,9 @@ On TorontoJS discord server. There's a dedicated Code Buddy Club channel.
 ## Why?
 
 - Sami and Liz have been code buddies since October. 
-- It's been really fun, 
-- It's helpful to have someone to share and debug the same projects
-- Being part of a group helps with motivation  and accountability by set goals for things to complete
+- It's been really fun.
+- It's helpful to have someone to share and debug the same projects.
+- Being part of a group helps with motivation  and accountability by setting goals for things to complete.
 - We're excited about opening this up to other devs in Toronto JS.
 ## How Has The Schedule Been Developed?
 

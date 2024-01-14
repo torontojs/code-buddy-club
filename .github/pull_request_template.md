@@ -1,6 +1,6 @@
 # Please include your course suggestions for future sessions
 
-New Course Suggestions format:
+New Course Suggestions Format:
 
 - [ ] Your full name:
 

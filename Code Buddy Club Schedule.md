@@ -33,8 +33,8 @@
 | [Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106) Please see note 3 below| Egghead.io | [Lazar Nikolov](https://egghead.io/q/resources-by-lazar-nikolov) See Notes! | 42 min | 9 lessons | 02 Weeks |  13 to 14 | Mar 25 to Apr 07 |
 | [Build a Keyword Extractor: React + OpenAI API + Chakra UI](https://youtu.be/jJNPPP2YEdM?si=FT7l6K41OIj76Ubr)| YouTube: Traversy Media | [Brad Traversy](https://www.linkedin.com/in/bradtraversy/) | 48 min| 1 video | 02 Weeks | 15 to 16 | Apr 08 to Apr 21 |
 | [Introduction to Applying Web Components](https://egghead.io/courses/web-components-f902) | Egghead.io | [Yonatan Kra](https://egghead.io/q/resources-by-yonatan-kra) | 17 min | 7 lessons | 1.5 Weeks |  17 to 17 | Apr 22 to April 228 |
-| [Accessible HTML forms][(https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp) Please see note 4 below| LinkedIn Learning | [Ifeoma Nwosu](https://www.linkedin.com/in/ifeoma-nwosu/) | 44 min | 5 sections | 1.5 Weeks |  18 to 19 | May 05 to May 12th (May 05, 07, 12)|
-| [Learning TypeScript]([https://commandlinepoweruser.com/](https://www.linkedin.com/learning/learning-typescript-2/welcome-to-learning-typescript) Please see note 4 below | LinkedIn Learning | [Jess Chadwick](https://www.linkedin.com/in/jesschadwick/) | 1h 11min | 6 sections | 1.5 Weeks |  20 to 21 | May 13  to May 26 (May 14, 19, 21) |
+| [Accessible HTML forms](https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp) Please see note 4 below| LinkedIn Learning | [Ifeoma Nwosu](https://www.linkedin.com/in/ifeoma-nwosu/) | 44 min | 5 sections | 1.5 Weeks |  18 to 19 | May 05 to May 12th (May 05, 07, 12)|
+| [Learning TypeScript](https://www.linkedin.com/learning/learning-typescript-2/welcome-to-learning-typescript) Please see note 4 below | LinkedIn Learning | [Jess Chadwick](https://www.linkedin.com/in/jesschadwick/) | 1h 11min | 6 sections | 1.5 Weeks |  20 to 21 | May 13  to May 26 (May 14, 19, 21) |
 
 ## In Person End of Season Brunch!
 
